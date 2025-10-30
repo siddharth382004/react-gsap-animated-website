@@ -1,8 +1,25 @@
-# React + Vite
+# 🌟 React GSAP Animated Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully animated and responsive website built with **React** and **GSAP (GreenSock Animation Platform)**.  
+Inspired by the YouTube tutorial [Build an Animated Website with React + GSAP].
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- Smooth entrance and scroll animations with GSAP
+- Responsive layout using Flexbox and CSS Grid
+- Modern and clean UI
+- Organized component structure
+- Easy to customize for your own portfolio or landing page
+
+---
+
+## 🧰 Tech Stack
+
+- **React** (Vite or Create React App)
+- **GSAP** (Animation library)
+- **CSS / TailwindCSS** (styling)
+- **React Router** (optional navigation)
+
+
