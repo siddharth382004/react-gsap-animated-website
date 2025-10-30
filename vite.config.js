@@ -2,7 +2,8 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
-// https://vitejs.dev/config/
+// ✅ Correct base path for GitHub Pages
 export default defineConfig({
-  plugins: [react(),tailwindcss()],
+  base: '/react-gsap-animated-website/',
+  plugins: [react(), tailwindcss()],
 })
